@@ -29,9 +29,12 @@
 
 <br>
 Obrigada pela visita!
+<br>
+<br>
+<br>
 
 
-
+[![Patrícia Mar stats](https://github-readme-stats.vercel.app/api?username=patriciamarpaulino)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
