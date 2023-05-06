@@ -38,7 +38,7 @@ Obrigada pela visita!
 
 
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patriciamarpaulino)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
