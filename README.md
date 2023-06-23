@@ -21,11 +21,13 @@
 
 :books: Estudando Inglês <img width="20px" src="https://user-images.githubusercontent.com/132604214/236638921-8c55c47e-5f35-420e-a6a0-0e7d4a36d299.png"/>
 <br>
-:large_blue_diamond: Técnico em WebDesigner
+:large_blue_diamond: Técnico em WebDesigner em transição de carreira para Programador FullStack Pro
 <br>
 :dog2: Amo animais...
 <br>
-:running: e correr.
+Hobbies: <br>
+:running:correr
+:muscle: musculação.
 
 <br>
 Obrigada pela visita!
