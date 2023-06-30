@@ -1,50 +1,45 @@
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-★彡 🄾🄻á! 彡★
+<h1>💜 Olá, meu nome é <strong>{Patrícia}!</strong></h1>
+<p align="justify">
+>Sou uma entusiasta da programação Front End, sempre em busca de desafios e aprendizado. Apaixonada por aventura, animais e musculação, encontro equilíbrio e motivação em meu estilo de vida ativo. Tenho uma mentalidade otimista e encaro cada projeto com determinação e criatividade. Estou constantemente me aprimorando para expandir minhas habilidades técnicas e me tornar uma profissional versátil no campo da tecnologia. Com uma atitude positiva e uma mentalidade de crescimento, estou pronta para enfrentar novos desafios e trilhar um caminho de sucesso na programação como Desenvolvedor Full Stack pela <br><a href="https://go.rodolfomori.com.br" target="_blank"><img src="https://cdn.areademembros.com/files/instancia_731//image/cDo7aKpDpEAkLRPHuYlAXdFmHtYyjPljSjUIZgu6.png" height="50" width="50">
+</p>
+<p align="justify">
+ 
+
+----
+<h3> :rocket: &nbsp;Minhas Skills </h3>
+<code><img height="20" src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5" alt="HTML5"/></code>
+<code><img height="20" src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6" alt="CSS"/></code>
+<code><img height="20" src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript" alt="Javascript"/></code>
+<code><img height="20" src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github" alt="github"/></code>
+<code><img height="20" src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" alt="git"/></code>
+</p>
+
+<p align="justify">
+ <h3>🦄 Editor de código: </h3> 
+ <code><img height="20" src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC" alt="vscode"/></code>
+  <code><img height="20" src="https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC" alt="figma"/></code>
+</p>
 <br>
-<br>
+<p align="left">
+  💌 Estou aqui, a apenas um clique de distância: ⤵️
+</p>
+<p align="left">
+  <a href="https://img.shields.io/badge/-patriciamarpaulino@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:patriciamarpaulino@gmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=https://mail.google.com/mail/u/0/#inbox" target="_blank"/></a>
 
-:computer: 𝘈𝘴𝘱𝘪𝘳𝘢𝘯𝘵𝘦 𝘢 𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳 𝘍𝘶𝘭𝘭𝘚𝘵𝘢𝘤𝘬<br>:house:𝘉𝘳𝘢𝘴𝘪𝘭𝘦𝘪𝘳𝘢 <br>:cyclone: 𝘜𝘣𝘦𝘳𝘭â𝘯𝘥𝘪𝘢/𝘔𝘎 <br>:airplane:𝘉𝘳𝘢𝘴𝘪𝘭 <br>
+  <a href="https://www.linkedin.com/in/patricia-marciano-333407275/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/patricia-marciano-333407275" target="_blank"/></a>
 
- :book::dart:Atualmente estou na fase do Front-end aprendendo e criando projetos com:
-<br>
+  <a href="https://api.whatsapp.com/send?phone=5537999035964&text=contato" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=api.whatsapp.com/send?phone=5537999035964&text=contato"  target="_blank"/></a>
+<a href="https://www.instagram.com/pattymayaoficial" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/pattymayaoficial" target="_blank"/></a>
+</p>  
+  <img altura="165em" origem="https://github-readme-stats.vercel.app/api?username=patriciamarpaulino&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
+  <img altura="165em" origem="https://github-readme-stats.vercel.app/api/top-langs/?username=patriciamarpaulino&layout=compact&langs_count=7&theme=monokai"/>
 
-
-<img width="60px"  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"/>    <img  width="53px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo"/>    <img width="90px"  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="html-logo"/> 
-<br>
-<br>
-<br>
- 🚀  𝐄𝐧𝐜𝐨𝐧𝐭𝐫𝐞 - 𝐦𝐞 𝐚𝐪𝐮𝐢:
-
-<a href="https://www.linkedin.com/in/patricia-marciano-333407275/"><img width="80px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-logo"/></a>
-
-<a href="https://www.instagram.com/pattymayaoficial/"><img width="30px" src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" alt="instagram-logo"/></a>
-
-
-
-<br>
-Educação: <br>
-:large_blue_diamond:Programador FrontEnd estudando para me tornar um Full Stack.
-<br>
-:dog2: Amo a maya minha cachorrinha.
-<br>
-<br>
-Hobbies: <br>
-:muscle: musculação.<br>
-:sunrise_over_mountains: natureza.<br>
-:traffic_light: som automotivo.
-
-<br>
-Obrigada pela visita!
-<br>
-<br>
-<br>
-
-
-[![Patrícia Mar stats](https://github-readme-stats.vercel.app/api?username=patriciamarpaulino)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patriciamarpaulino)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
