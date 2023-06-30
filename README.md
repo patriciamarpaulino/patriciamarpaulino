@@ -32,7 +32,7 @@
   <a href="https://www.linkedin.com/in/patricia-marciano-333407275/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/patricia-marciano-333407275" target="_blank"></a>
 
-  <a href="https://api.whatsapp.com/send?phone=5537999035964&text=contato" alt="WhatsApp">
+  <a href="https://api.whatsapp.com/send?phone=5534999035964&text=contato" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=api.whatsapp.com/send?phone=5537999035964&text=contato"  target="_blank"></a>
 <a href="https://www.instagram.com/pattymayaoficial" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/pattymayaoficial" target="_blank"></a>
