@@ -1,8 +1,19 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
-
-<h1>💜 Olá, meu nome é <strong>{Patrícia}!</strong></h1>
+<h1>💜 Olá, seja Bem vindo ao meu  <strong>{Perfil!}</strong></h1>
 <p align="justify">
->Sou uma entusiasta da programação Front End, sempre em busca de desafios e aprendizado, apaixonada por aventura, animais e musculação, encontro equilíbrio e motivação em meu estilo de vida ativo, tenho uma mentalidade otimista e encaro cada projeto com determinação e criatividade. <br>Estou constantemente me aprimorando para expandir minhas habilidades técnicas e me tornar uma profissional versátil no campo da tecnologia. <br>Com uma atitude positiva e uma mentalidade de crescimento, estou pronta para enfrentar novos desafios e trilhar um caminho de sucesso na programação como Desenvolvedor Full Stack pela <br><a href="https://api.whatsapp.com/send/?phone=551151979923&text=Ol%C3%A1%2C+tenho+interesse+em+virar+s%C3%B3cio+do+DevClub&type=phone_number&app_absent=0" target="_blank"><img src="https://cdn.areademembros.com/files/instancia_731//image/cDo7aKpDpEAkLRPHuYlAXdFmHtYyjPljSjUIZgu6.png" height="50" width="50">
+👨‍🚀 Estudando back-end.<br> 
+👨‍🎓 Desenvolvedor Front-End.<br>
+👨‍🎓 Técnico em WebDesign & Informática.<br>
+ 
+  <br>
+🌀 Hobbies
+<br>
+🐾🏃‍♀️🏕🎶<br>
+ <br>
+ 🌟Estou constantemente me aprimorando para expandir minhas habilidades técnicas e me tornar uma profissional versátil no campo da tecnologia. Com uma atitude positiva e uma mentalidade de crescimento, estou pronta para enfrentar novos desafios e trilhar um caminho de sucesso na programação como Desenvolvedor Full Stack pela <br><a href="https://api.whatsapp.com/send/?phone=551151979923&text=Ol%C3%A1%2C+tenho+interesse+em+virar+s%C3%B3cio+do+DevClub&type=phone_number&app_absent=0" target="_blank"><img src="https://cdn.areademembros.com/files/instancia_731//image/cDo7aKpDpEAkLRPHuYlAXdFmHtYyjPljSjUIZgu6.png" height="50" width="50">
+
+
+ 
 </p>
  <h3> :rocket: &nbsp;Minhas Skills </h3>
 <p align="justify">
@@ -69,8 +80,7 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/patriciamarpaulino/patriciamarpaulino/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/patriciamarpaulino/patriciamarpaulino/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
