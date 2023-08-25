@@ -79,8 +79,7 @@
   </a>
 </div>
 
-###
-![snake gif](https://github.com/patriciamarpaulino/patriciamarpaulino/blob/output/github-contribution-grid-snake.svg)
+
 
 ###
 
