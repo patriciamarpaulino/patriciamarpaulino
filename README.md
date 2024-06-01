@@ -8,7 +8,7 @@
   <br>
 🌀 Hobbies
 <br>
-🐾🏃‍♀️🏕🎶<br>
+🐾🏃‍♀️🏕🎶🥊👊<br>
  <br>
  🌟Estou constantemente me aprimorando para expandir minhas habilidades técnicas e me tornar uma profissional versátil no campo da tecnologia. Com uma atitude positiva e uma mentalidade de crescimento, estou pronta para enfrentar novos desafios e trilhar um caminho de sucesso na programação como Desenvolvedor Full Stack pela <br><a href="https://api.whatsapp.com/send/?phone=551151979923&text=Ol%C3%A1%2C+tenho+interesse+em+virar+s%C3%B3cio+do+DevClub&type=phone_number&app_absent=0" target="_blank"><img src="https://cdn.areademembros.com/files/instancia_731//image/cDo7aKpDpEAkLRPHuYlAXdFmHtYyjPljSjUIZgu6.png" height="50" width="50">
 
